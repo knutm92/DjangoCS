@@ -1,3 +1,6 @@
 .idea
 
 /django_project/db.sqlite3
+
+/django_project/blog/__pycache__/
+/django_project/blog/migrations/
