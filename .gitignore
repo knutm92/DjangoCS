@@ -4,3 +4,6 @@
 
 /django_project/blog/__pycache__/
 /django_project/blog/migrations/
+
+__pycache__/
+*.pyc
