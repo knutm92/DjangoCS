@@ -7,3 +7,5 @@
 
 __pycache__/
 *.pyc
+/django_project/media/profile_pics/
+/django_project/media/default.jpg
